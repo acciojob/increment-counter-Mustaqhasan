@@ -1,6 +1,6 @@
 //your JS code here. If required
 
-let ele=document.getElementById("increment");
+let ele=document.getElementById("counter");
 let ele1=Number(ele.innerText);
 function incrementByOne(){
     ele1+=1;
